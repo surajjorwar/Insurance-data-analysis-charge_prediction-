@@ -1,6 +1,7 @@
 # Insurance-data-analysis
 
 In this repository, I have conducted a comprehensive analysis of an insurance dataset to extract meaningful insights and trends. The dataset comprises the following columns: age, sex, BMI, gender, number of children, charges, and smoking status. Through exploratory data analysis (EDA) and advanced analytical techniques, I have uncovered valuable information that sheds light on various aspects of insurance-related patterns.
+and i have also predicted the medical charge with 86.4% accuracy using GradientBoostingRegressor algorithm 
 
 Key Findings:
 
